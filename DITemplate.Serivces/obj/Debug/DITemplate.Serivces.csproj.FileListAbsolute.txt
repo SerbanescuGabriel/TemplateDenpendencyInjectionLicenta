@@ -1,0 +1,17 @@
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\bin\Debug\DITemplate.Serivces.dll
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\bin\Debug\DITemplate.Serivces.pdb
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\bin\Debug\DITemplate.DB.dll
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\bin\Debug\DITemplate.Repository.dll
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\bin\Debug\EntityFramework.dll
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\bin\Debug\DITemplate.DB.pdb
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\bin\Debug\DITemplate.DB.dll.config
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\bin\Debug\DITemplate.Repository.pdb
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\bin\Debug\DITemplate.Repository.dll.config
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\bin\Debug\EntityFramework.xml
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\obj\Debug\DITemplate.Serivces.csprojAssemblyReference.cache
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\obj\Debug\DITemplate.Serivces.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\obj\Debug\DITemplate.Serivces.csproj.CopyComplete
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\obj\Debug\DITemplate.Serivces.dll
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\obj\Debug\DITemplate.Serivces.pdb
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\bin\Debug\DITemplate.DbFactory.dll
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.Serivces\bin\Debug\DITemplate.DbFactory.pdb

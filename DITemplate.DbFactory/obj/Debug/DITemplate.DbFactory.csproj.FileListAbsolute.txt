@@ -1,0 +1,12 @@
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.DbFactory\bin\Debug\DITemplate.DbFactory.dll
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.DbFactory\bin\Debug\DITemplate.DbFactory.pdb
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.DbFactory\bin\Debug\DITemplate.DB.dll
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.DbFactory\bin\Debug\EntityFramework.dll
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.DbFactory\bin\Debug\DITemplate.DB.pdb
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.DbFactory\bin\Debug\DITemplate.DB.dll.config
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.DbFactory\bin\Debug\EntityFramework.xml
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.DbFactory\obj\Debug\DITemplate.DbFactory.csprojAssemblyReference.cache
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.DbFactory\obj\Debug\DITemplate.DbFactory.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.DbFactory\obj\Debug\DITemplate.DbFactory.csproj.CopyComplete
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.DbFactory\obj\Debug\DITemplate.DbFactory.dll
+C:\Users\gabriel.serbanescu\source\repos\DITemplate\DITemplate.DbFactory\obj\Debug\DITemplate.DbFactory.pdb
